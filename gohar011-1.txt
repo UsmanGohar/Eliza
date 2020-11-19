@@ -1,0 +1,54 @@
+cript started on Sun 17 Sep 2017 06:41:51 PM CDT
+^[[4makka^[[24m:^[[1m~^[[0m% ^G^GP^H^[[Kp^H^[[Kpython PA1.py^M
+This is Eliza The Academic Advisor, programmed by Usman Gohar
+
+
+
+
+[Eliza]- Hi, I am an academic advisor. What is your name?
+<Usman Gohar
+Hi, Usman Gohar. What's your major?
+< Computer Science
+>That's good. Do you like it?
+< Yes
+Hmm, you seem quite sure
+< Can I ask you a question?
+>Sure, how can I help?
+< I think I missed the deadliejn^H ^H^H ^H^H ^Hne to register for Ma^H ^H^H ^HCS1^H ^H 1
+>But you're not really sure?
+< N^H ^HI thouhg^H ^H^H ^Hght I'll ask you
+>So where are you from, Usman Gohar?
+< Duluth, Minnesota
+>That's interesting
+< Is it compl^H ^Hulsory to register before the deadline
+>If it were compulsory to register before the deadline, what would you do?
+< I can't say
+>Perhaps you could if you tried harder, maybe?
+< No
+>Why not?
+< Because I'm not smart enough
+Is that the real reason
+< I don't know
+>That's what I'm here for
+< I have self doubts
+>So you have self doubts, what will you do about it?
+< Talk to you
+>I see
+< Do you think I'm smart?
+>I think your question answers itself.
+< Do computers feel sad sao^H ^H^H ^Hometimes?
+>Do you think computers are any less human?
+< I'm sorry to have said that
+There are times when no apology is needed
+< I feel sad
+When do you usually feel sad?
+< Always, but you are good at encouraging me
+>I see
+< exit
+>Bye. Stay in touch
+^[[4makka^[[24m:^[[1m~^[[0m% exit^M
+exit
+
+Script done on Sun 17 Sep 2017 06:46:19 PM CDT
+
+

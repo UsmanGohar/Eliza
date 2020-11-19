@@ -1,0 +1,55 @@
+Script started on Sun 17 Sep 2017 07:13:27 PM CDT
+^[[4makka^[[24m:^[[1m~^[[0m% ^Gpython PA1.py^M
+This is Eliza The Academic Advisor, programmed by Usman Gohar
+
+
+
+
+[Eliza]- Hi, I am an academic advisor. What is your name?
+<Usman Gohar
+Hi, Usman Gohar. What's your major?
+< unc^H ^Hdecided
+>Which major is on your mind?
+< Mathematics
+>That's good. Do you like it?
+< No
+>Why not?
+< No
+>Stop repeating yourself!
+< No
+>Don't waste my time, other students need me
+< 86 sfdsda
+>Sorry, can you rephrase that?
+< I hate computers
+>Do you think computers are any less human?
+< I'm sorry I said that
+There are times when no apology is needed
+< So
+>So where are you from, Usman Gohar?
+< Duluuth, Minnesota
+>Please tell me more
+< Can I ask a question?
+>Sure, how can I help?
+< Why do people major in Mathematics
+>It's usually a personal preference but it pays well
+< Is it a risk
+>If it were a risk, what would you do?
+< I don't know
+>But you're not really sure?
+< No
+>Why not?
+< Because I hate computers
+>Do you think computers are any less human?
+< Because I hate computers
+>Stop repeating yourself!
+< Do you think I'm naughty?
+>I think your question answers itself.
+< ok exit
+>Glad I could help
+^[[4makka^[[24m:^[[1m~^[[0m% exit^M
+exit
+
+Script done on Sun 17 Sep 2017 07:20:54 PM CDT
+
+
+
