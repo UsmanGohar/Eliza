@@ -1,5 +1,5 @@
-cript started on Sun 17 Sep 2017 06:41:51 PM CDT
-^[[4makka^[[24m:^[[1m~^[[0m% ^G^GP^H^[[Kp^H^[[Kpython PA1.py^M
+Script started on Sun 17 Sep 2017 06:41:51 PM CDT
+
 This is Eliza The Academic Advisor, programmed by Usman Gohar
 
 
